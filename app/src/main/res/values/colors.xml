@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="light_warm_red">#CCFF6347</color>
+    <color name="warm_red">#FF6347</color>
+    <color name="dark_warm_red">#FF6347</color>
+    <color name="grey" >#ffbebebe</color>
+    <color name="dark_grey">#FF080808</color>
+    <color name="light_grey">#ffbebebe</color>
+    <color name="light_grey_1">#FFEEEEEE</color>
+
+    <color name="main_color">@color/warm_red</color>
+    <color name="dark_main_color">@color/dark_warm_red</color>
+
+    <color name="drawer_scrim_color">#88eeeeee</color>
+    <color name="action_bar_title_color">@android:color/white</color>
+    <color name="window_background">@android:color/white</color>
+
+    <color name="primary">#2196F3</color>
+    <color name="text_color_primary">#212121</color>
+    <color name="text_second_color_primary">#727272</color>
+
+
+    <!--第一个主题颜色-->
+    <color name="indigo_primary">#2196F3</color>
+    <color name="indigo_primary_dark">#1976D2</color>
+    <color name="indigo_primary_light">#BBDEFB</color>
+    <color name="indigo_accent">#536DFE</color>
+    <color name="indigo_primary_text">#212121</color>
+    <color name="indigo_secondary_text">#757575</color>
+    <color name="indigo_icons">#FFFFFF</color>
+    <color name="indigo_divider">#BDBDBD</color>
+    <!--第二个主题颜色-->
+    <color name="cyan_primary">#00BCD4</color>
+    <color name="cyan_primary_dark">#0097A7</color>
+    <color name="cyan_primary_light">#B2EBF2</color>
+    <color name="cyan_accent">#00BCD4</color>
+    <color name="cyan_primary_text">#212121</color>
+    <color name="cyan_secondary_text">#757575</color>
+    <color name="cyan_icons">#FFFFFF</color>
+    <color name="cyan_divider">#BDBDBD</color>
+    <!--第三个主题颜色-->
+    <color name="green_primary">#4CAF50</color>
+    <color name="green_primary_dark">#388E3C</color>
+    <color name="green_primary_light">#C8E6C9</color>
+    <color name="green_accent">#4CAF50</color>
+    <color name="green_primary_text">#212121</color>
+    <color name="green_secondary_text">#757575</color>
+    <color name="green_icons">#FFFFFF</color>
+    <color name="green_divider">#BDBDBD</color>
+    <!--第四个主题颜色-->
+    <color name="grey_primary">#9E9E9E</color>
+    <color name="grey_primary_dark">#616161</color>
+    <color name="grey_primary_light">#F5F5F5</color>
+    <color name="grey_accent">#9E9E9E</color>
+    <color name="grey_primary_text">#212121</color>
+    <color name="grey_secondary_text">#757575</color>
+    <color name="grey_icons">#212121</color>
+    <color name="grey_divider">#BDBDBD</color>
+    <!--第五个主题颜色-->
+    <color name="orange_primary">#FF9800</color>
+    <color name="orange_primary_dark">#F57C00</color>
+    <color name="orange_primary_light">#FFE0B2</color>
+    <color name="orange_accent">#FF9800</color>
+    <color name="orange_primary_text">#212121</color>
+    <color name="orange_secondary_text">#757575</color>
+    <color name="orange_icons">#212121</color>
+    <color name="orange_divider">#BDBDBD</color>
+    <!--第六个主题颜色-->
+    <color name="purple_primary">#9C27B0</color>
+    <color name="purple_primary_dark">#7B1FA2</color>
+    <color name="purple_primary_light">#E1BEE7</color>
+    <color name="purple_accent">#E040FB</color>
+    <color name="purple_primary_text">#212121</color>
+    <color name="purple_secondary_text">#757575</color>
+    <color name="purple_icons">#FFFFFF</color>
+    <color name="purple_divider">#BDBDBD</color>
+    <!--第七个主题颜色-->
+    <color name="red_primary">#F44336</color>
+    <color name="red_primary_dark">#D32F2F</color>
+    <color name="red_primary_light">#FFCDD2</color>
+    <color name="red_accent">#CDDC39</color>
+    <color name="red_primary_text">#212121</color>
+    <color name="red_secondary_text">#757575</color>
+    <color name="red_icons">#FFFFFF</color>
+    <color name="red_divider">#BDBDBD</color>
+
+    <!--第八个主题颜色-->
+    <color name="yellow_primary">#FFEB3B</color>
+    <color name="yellow_primary_dark">#FBC02D</color>
+    <color name="yellow_primary_light">#FFF9C4</color>
+    <color name="yellow_accent">#FFEB3B</color>
+    <color name="yellow_primary_text">#212121</color>
+    <color name="yellow_secondary_text">#757575</color>
+    <color name="yellow_icons">#212121</color>
+    <color name="yellow_divider">#BDBDBD</color>
+</resources>

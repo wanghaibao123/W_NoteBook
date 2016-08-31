@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.jenzz.materialpreference.PreferenceCategory
+        android:padding="10dp"
+        android:title="@string/convention">
+        <com.jenzz.materialpreference.SwitchPreference
+            android:key="@string/right_hand_mode_key"
+            android:summary="@string/right_hand_mode_summary"
+            android:title="@string/right_hand_mode" />
+
+        <com.jenzz.materialpreference.CheckBoxPreference
+            android:key="@string/card_note_item_layout_key"
+            android:title="@string/card_note_item_layout" />
+
+        <com.jenzz.materialpreference.Preference
+            android:key="@string/sync_account_key"
+            android:title="@string/sync_account" />
+        <com.jenzz.materialpreference.Preference
+            android:key="@string/change_theme"
+            android:title="@string/change_theme_title"/>
+    </com.jenzz.materialpreference.PreferenceCategory>
+
+    <com.jenzz.materialpreference.PreferenceCategory android:title="@string/other">
+
+        <com.jenzz.materialpreference.Preference
+            android:key="@string/advice_feedback_key"
+            android:title="@string/advice_feedback" />
+
+        <com.jenzz.materialpreference.Preference
+            android:key="@string/give_favor_key"
+            android:title="@string/give_favor" />
+    </com.jenzz.materialpreference.PreferenceCategory>
+</PreferenceScreen>
